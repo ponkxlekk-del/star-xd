@@ -1,4 +1,4 @@
-//=====💫 STAR XD 🔥====
+//=====💫 ikkyyxxy 🔥====
 
 export default {
   // PUT YOUR SESSION ID BELOW (Required)
@@ -39,20 +39,20 @@ export default {
   PREFIXES: ".",
 
   // Bot Pack Name
-  PACKNAME: "sᴛᴀʀ-xᴅ",
+  PACKNAME: "ikkyyxxy",
 
   // Bot Name
-  BOT_NAME: "sᴛᴀʀ-xᴅ",
+  BOT_NAME: "ikkyyxxy bot",
 
   // Add Owner WhatsApp Number (without +)
-  OWNER_NUMBER: "263725787000",
+  OWNER_NUMBER: "6282213269041",
 
   // Command Mode: "public" or "private"
   // private = only owner can use commands
   COMMAND_MODE: "private",
 
   // Owner Name
-  BOT_OWNER: "ᴍʀ xᴅᴋɪɴɢ",
+  BOT_OWNER: "king ikkyyxxy",
 
   // Timezone
   TIMEZONE: "Africa/Harare"
